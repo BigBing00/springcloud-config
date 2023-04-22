@@ -1,6 +1,2 @@
-info: master branch,springcloud-config/application-dev.yml
-
-CommonResult:
-  code: 200
-  message: 访问成功
-  data: master branch,springcloud-config/application-dev.yml
+info:
+  message: master branch,springcloud-config/application-dev.yml
